@@ -43,6 +43,6 @@ A cheerful pink-themed webpage promoting arts and crafts, featuring inspiring te
 This project is **open-source** and available under the **MIT License**.
 
 ### Author
-Developed by: Mahalakshmi G
-📧 Email: [mahagmaha05@gmail.com]
+Developed by: Mahalakshmi Gopinath
+Email: [mahagmaha05@gmail.com]
 
